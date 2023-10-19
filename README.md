@@ -1,6 +1,9 @@
 ### Hi there 👋
+I'm Argel, a 2nd year Computer Science student at Toronto Metropolitan University (formerly Ryerson) 📚
+- 🔭 I’m currently working on making native Android apps with Kotlin and Jetpack Compose!
+- 🌱 I’m currently learning data structures and algorithms.
 
-<!--
+
 **argelhunos/argelhunos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
