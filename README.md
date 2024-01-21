@@ -3,5 +3,3 @@ I'm Argel, a 2nd year Computer Science student at Toronto Metropolitan Universit
 - 🔭 I’m currently working on making native Android apps with Kotlin and Jetpack Compose!
 - 🌐 Web Development is also one of my interests!
 - 🌱 I finished the data structures course, woo!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argelhunos)]
